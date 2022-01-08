@@ -1,6 +1,6 @@
 # Laravel-docker-custom
 
-Easier to access boilerplate to run laravel on docker. To run you will need docker and docker-compose installed on your computer.
+Easier to access boilerplate to run laravel on docker. To run you will need [docker](https://docs.docker.com/engine/install/) and [docker-compose](https://docs.docker.com/compose/install/) installed on your computer. [Bitnami official docker documentation](https://hub.docker.com/r/bitnami/laravel).
 
 ## Bitnami
 To initialize the image run
