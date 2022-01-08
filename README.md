@@ -23,7 +23,7 @@ docker-compose build && docker-compose up -d
 ```
 After building the first time you can run
 ```
-docker-compose up-d
+docker-compose up -d
 ```
 To run artisan commands
 ```
